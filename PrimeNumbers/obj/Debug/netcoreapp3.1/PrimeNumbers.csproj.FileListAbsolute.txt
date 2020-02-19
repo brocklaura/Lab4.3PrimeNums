@@ -1,0 +1,3 @@
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4.3PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csprojAssemblyReference.cache
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4.3PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4.3PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfo.cs
